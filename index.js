@@ -1,8 +1,3 @@
-const testObject = {
-  "background-color": "red",
-  color: "black",
-};
-
 const objectToStyle = (styleObject) => {
   let styleString = "";
   Object.keys(styleObject).forEach((key) => {
@@ -10,3 +5,5 @@ const objectToStyle = (styleObject) => {
   });
   return styleString;
 };
+
+module.exports = objectToStyle;
