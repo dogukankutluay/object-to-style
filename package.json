@@ -1,11 +1,11 @@
 {
   "name": "object-to-style",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": ["javascript","object-to-style"],
   "author": "",
   "license": "ISC",
   "description": ""
