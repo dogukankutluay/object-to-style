@@ -6,7 +6,11 @@
     "start": "node index.js"
   },
   "keywords": ["javascript","object-to-style"],
-  "author": "",
+  "author": "Doğukan Kutluay",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-user/repo-url.git"
+  }
 }
